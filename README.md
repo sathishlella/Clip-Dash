@@ -1,4 +1,4 @@
-# ClipDash AI — Smart Clipboard Manager
+# ClipDash AI - Smart Clipboard Manager
 
 **Day 12 of 100 Days, 100 AI Agents**
 
